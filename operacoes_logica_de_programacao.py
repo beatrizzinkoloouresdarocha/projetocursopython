@@ -32,3 +32,6 @@ condicao_ou_falsa = primeiro_numero < segundo_numero or primeiro_numero < tercei
 #verdadeiro ou falso = verdadeiro
 #falso ou verdadeiro =verdadeiro
 #falso ou falso = falso 
+
+#>  maior 
+#<  menor 
